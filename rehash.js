@@ -6,7 +6,6 @@
  \ \_\\ \____\\ \_\ \_\ \__/.\_\/\____/ \ \_\ \_\
   \/_/ \/____/ \/_/\/_/\/__/\/_/\/___/   \/_/\/_/
 
-    Given to a Coding Dojo alumni by Riot Games.
     Rehash an incorrectly hashed string by combining letter count occurrences
     and alphabetizing them.
 */
